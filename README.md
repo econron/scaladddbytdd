@@ -1,0 +1,2 @@
+# scaladddbytdd
+TDDしながらScala文法に慣れつつ、簡単なドメインモデルを構築する練習
